@@ -1,0 +1,102 @@
+a {
+color: #E6B800;
+font-weight: bold;
+text-decoration: none;
+}
+
+a.navbar-brand {
+color: #330066;
+}
+
+
+body {
+background-color: #2A2A2A;
+color: white;
+font-size: 16px
+}
+
+.banner-image{
+border: white dashed 3px;
+margin-top: -15px;
+}
+
+h2{
+text-align: center;
+font-size: 200%;
+color: #e6b800;
+font-weight: bolder;
+}
+
+h4{
+text-align: center;
+font-size: 170%;
+}
+
+h5{
+text-align: center;
+font-size: 145%;
+color: #e6b800;
+}
+
+hr{
+border: 0; height: 1px; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+.img-responsive{
+   display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.navbar-default{
+border: solid 8px #330066;
+}
+.navbar-default .navbar-brand {
+color:#330066;
+}
+
+.navbar-default .navbar-nav>li>a{
+color:#330066;
+}
+
+.navbar-default .navbar-toggle {
+border-color: #330066;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+background-color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+color: #330066;
+font-weight:500;
+}
+
+.panel {
+padding: 10px;
+background-color: white;
+border: none;
+}
+
+.panel-body{
+padding: 30px;
+background-color:#330066;
+}
+
+.panel-footer{
+text-align: center;
+color: #330066;
+margin-top: 20px;
+}
+
+.subtopic {
+font-weight: bolder;
+color: #e6b800; 
+font-size: 100%;
+}
+
+.unordered-list {
+text-align: center;
+}
+
